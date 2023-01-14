@@ -11,7 +11,7 @@ Skills: HTML / CSS / JS / REACT NATIV /
 - 🔭 I’m currently working on AKK System 
 - 🌱 I’m currently learning javaScript, React, React Nativ, ERP, .NET 
 - 📫 How to reach me: Message or Email 
-- ⚡ Fun fact: I like to sleep comfortably for 8 hours. 
+- ⚡ Fun fact: I love to sleep comfortably for 8 hours. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aliakbermehedi1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-akber-mehedi-684262209/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aliakbermehedi1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aliakbermehedi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aliakbermehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@aliakbermehedi9512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aliakbermehedi.github.io/)  
