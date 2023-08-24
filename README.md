@@ -1,4 +1,4 @@
-![Trainee Software Engineer](https://pbs.twimg.com/profile_banners/1123289039359004672/1672950313/600x200)
+![Trainee Software Engineer](https://www.linkedin.com/in/ali-akber-mehedi-684262209/overlay/background-image/)
 
 
 ### Hi 👋, I'm Ali Akber Mehedi
