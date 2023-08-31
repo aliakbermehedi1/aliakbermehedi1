@@ -1,6 +1,3 @@
-https://www.linkedin.com/in/ali-akber-mehedi-684262209/overlay/background-image/
-
-
 ### Hi 👋, I'm Ali Akber Mehedi
 #### Junior Software Engineer at AKK Systems
 
