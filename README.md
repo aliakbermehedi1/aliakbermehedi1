@@ -36,5 +36,5 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/aliakbermehedi1/aliakbermehedi1/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
