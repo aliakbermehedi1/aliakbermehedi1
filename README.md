@@ -23,8 +23,7 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbermehedi1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakbermehedi1&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aliakbermehedi1)  
+  
 
 
 ## 🐍 A Snake Eating my Contributions Graph
