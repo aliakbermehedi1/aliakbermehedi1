@@ -31,3 +31,10 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aliakbermehedi1)  
 
 ![Profile views](https://gpvc.arturio.dev/aliakbermehedi1)  
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/aliakbermehedi1/aliakbermehedi1/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
