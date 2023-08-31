@@ -26,12 +26,6 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aliakbermehedi1)  
 
-![GitHub metrics](https://metrics.lecoq.io/aliakbermehedi1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aliakbermehedi1)  
-
-![Profile views](https://gpvc.arturio.dev/aliakbermehedi1)  
-
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
