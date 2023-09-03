@@ -28,3 +28,6 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 <p align = "center">
 	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
+
+
+![](https://i.imgur.com/IuzIC2j.png)
