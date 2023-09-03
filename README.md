@@ -22,6 +22,7 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakbermehedi1&show_icons=true)  
   
 
+![](https://i.imgur.com/IuzIC2j.png)
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
@@ -30,4 +31,4 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 </p>
 
 
-![](https://i.imgur.com/IuzIC2j.png)
+
