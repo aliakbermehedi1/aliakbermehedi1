@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Ali Akber Mehedi
 #### Junior Software Engineer at AKK Systems
 
-I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with "React & React Nativ" but some technologies I enjoy working with include .Net, PHP as well as Python.
+I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with "React & React Nativ" but some technologies I enjoy working with include .Net, PHP as well as Python.
 
 Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQL Database / Git & Github / DOM / Dev Tools
 
@@ -24,7 +24,7 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 
 ![](https://i.imgur.com/IuzIC2j.png)
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
