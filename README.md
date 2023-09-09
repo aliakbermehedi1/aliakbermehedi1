@@ -6,7 +6,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 **Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQL Database / Git & Github / DOM / Dev Tools**
 
 - 🔭 I’m currently working on **AKK System**.
-- 🌱 I’m currently learning React Native & Node JS. 
+- 🌱 I’m currently learning **React Native & Node JS**. 
 - 📫 How to reach me: Message or Email.
 - ⚡ Fun fact: I love to sleep comfortably for 8 hours. 
 
