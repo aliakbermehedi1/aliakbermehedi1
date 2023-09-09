@@ -7,7 +7,7 @@ Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQ
 
 - 🔭 I’m currently working on AKK System.
 - 🌱 I’m currently learning React Native & Node JS. 
-- 📫 How to reach me: Message or Email 
+- 📫 How to reach me: Message or Email.
 - ⚡ Fun fact: I love to sleep comfortably for 8 hours. 
 
 
