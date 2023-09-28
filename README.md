@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D5616AQHpwu7BRTPClA/profile-displaybackgroundimage-shrink_200_800/0/1692860683296?e=2147483647&v=beta&t=vVIeXAyAzeOEGdJ4dXRocrqzsVtAMZUY-_ktQVTpE7E))](https://aliakbermehedi.github.io/)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHpwu7BRTPClA/profile-displaybackgroundimage-shrink_200_800/0/1692860683296?e=2147483647&v=beta&t=vVIeXAyAzeOEGdJ4dXRocrqzsVtAMZUY-_ktQVTpE7E)](https://aliakbermehedi.github.io/)
 
 ### Hi 👋, I'm Ali Akber Mehedi
 #### Junior Software Engineer at AKK Systems
