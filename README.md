@@ -5,6 +5,8 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 **Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / .NET / SQL Database / Git & Github / DOM / Dev Tools**
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 - 🔭 I’m currently working on **AKK System**.
 - 🌱 I’m currently learning **React Native & Node JS**. 
 - 📫 How to reach me: Message or Email.
