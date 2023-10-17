@@ -32,7 +32,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 ![](https://i.imgur.com/IuzIC2j.png)
 
-## 🐍 A Snake Eating My Contributions Graph
+## 🐍 Python Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
