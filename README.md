@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHpwu7BRTPClA/profile-displaybackgroundimage-shrink_200_800/0/1692860683296?e=2147483647&v=beta&t=vVIeXAyAzeOEGdJ4dXRocrqzsVtAMZUY-_ktQVTpE7E)](https://aliakbermehedi.github.io/)
 
-### Hi 👋, I'm Ali Akber Mehedi
+### Hi 👋, I'm Ali Akber Mehedi.
 #### Software Engineer at AKK SYSTEMS
 
 I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with "React & Flutter" but some technologies I enjoy working with include .Net, node js as well as Python.
