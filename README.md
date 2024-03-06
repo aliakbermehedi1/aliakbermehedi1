@@ -5,7 +5,7 @@
 
 I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with "React & Flutter" but some technologies I enjoy working with node js.
 
-**Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React, React JS / C# / NODE JS / SQL Database / Git & Github / DOM / Dev Tools**
+**Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React JS / NODE JS / SQL Database / MongoDB/ Git & Github / DOM / Dev Tools**
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
