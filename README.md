@@ -7,7 +7,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 **Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React JS / NODE JS / SQL Database / MongoDB/ Git & Github / DOM / Dev Tools**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 
 - 🔭 I’m currently working on **AKK System**.
 - 🌱 I’m currently learning **???**. 
