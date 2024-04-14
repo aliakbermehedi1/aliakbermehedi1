@@ -10,7 +10,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 - 🔭 I’m currently working on **AKK System**.
-- 🌱 I’m currently learning **???**. 
+- 🌱 I’m currently learning **🐍**. 
 - 📫 How to reach me: Message or Email.
 - ⚡ Fun fact: I love to sleep comfortably for 8 hours. 
 
