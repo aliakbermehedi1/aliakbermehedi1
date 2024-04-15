@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Ali Akber Mehedi.
 #### Software Engineer at AKK SYSTEMS
 
-I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with React but some technologies I enjoy working with node js & Laravel.
+I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with React but some technologies I enjoy working with Node JS & Laravel.
 
 **Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React JS / NODE JS / SQL Database / MongoDB/ Git & Github / DOM / Dev Tools**
 
