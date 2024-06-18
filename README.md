@@ -12,7 +12,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 - 🔭 I’m currently working on **AKK SYSTEMS**.
 - 🌱 I’m currently learning **🐍**..
 - 📫 How to reach me: Message or Email..
-- ⚡ Fun fact: I love to sleep comfortably for 8 hours..
+- ⚡ Fun fact: I love to sleep comfortably for 8 hours.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
