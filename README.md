@@ -1,15 +1,15 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1717027200&v=beta&t=ShIIMD0QZCVH7yldrMaHiAQ6kBdeV7im3mz9P9RTPpc)](https://aliakbermehedi.github.io/)
 
 ### Hi 👋, I'm Ali Akber Mehedi.
-#### Software Engineer at AKK SYSTEMS & Buyonia Soft..
+#### Junior Software Engineer at Buyonia Soft and currently a Software Engineer at Dekko Isho Group, contributing to innovative software solutions and system optimizations ...
 
-I'm a Front End Web developer who is passionate about making error-free websites and Web App. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with React but some technologies I enjoy working with Node JS & Laravel.
+Passionate Full-Stack Developer with experience in delivering scalable and user-friendly solutions. Focused on continuous learning, innovation, and contributing to organizational success through new technologies. Seeking remote opportunities to further enhance my skills and make a positive impact
 
-**Skills: HTML / CSS (Bootstrap, Tailwind) / JS / React JS / NODE JS / SQL Database / MongoDB/ Git & Github / DOM / Dev Tools**
+**Skills: React JS / Next JS / NODE JS / SQL Database / MongoDB **
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-- 🔭 I’m currently working on **AKK SYSTEMS**..
+- 🔭 I’m currently working on **Dekko Isho Group**..
 - 🌱 I’m currently learning **🐍**..
 - 📫 How to reach me: Message or Email.
 - ⚡ Fun fact: I love to sleep comfortably for 8 hours..
