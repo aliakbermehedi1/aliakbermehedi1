@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1717027200&v=beta&t=ShIIMD0QZCVH7yldrMaHiAQ6kBdeV7im3mz9P9RTPpc)](https://aliakbermehedi.github.io/)
 
 ### Hi 👋, I'm Ali Akber Mehedi.
-#### Junior Software Engineer at Buyonia Soft and currently a Software Engineer at Dekko Isho Group, contributing to innovative software solutions and system optimizations ...
+#### Software Engineer at Dekko Isho Group, contributing to innovative software solutions and system optimizations ...
 
 Passionate Full-Stack Developer with experience in delivering scalable and user-friendly solutions. Focused on continuous learning, innovation, and contributing to organizational success through new technologies. Seeking remote opportunities to further enhance my skills and make a positive impact
 
