@@ -49,7 +49,7 @@
 
 ---
 
-## 🎨 Creative Coding GIFs
+## 🎨 I Love Task's
 
 <div align="center">
   <img src="https://cdn.dribbble.com/userupload/23848144/file/original-4ecaa742598cf280a7c43ffae0903e5a.gif" width="45%" alt="Coding Animation 1"/>
@@ -64,8 +64,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-akber-mehedi-684262209)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aliakbermehedi1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliakbermehedi)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/aliakbermehedi9512)
 
 </div>
 
