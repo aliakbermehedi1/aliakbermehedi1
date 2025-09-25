@@ -52,7 +52,7 @@
 ## 🎨 I Love Task's
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23848144/file/original-4ecaa742598cf280a7c43ffae0903e5a.gif" width="45%" alt="Coding Animation 1"/>
+  <img src="[https://cdn.dribbble.com/userupload/23848144/file/original-4ecaa742598cf280a7c43ffae0903e5a.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)" width="45%" alt="Coding Animation 1"/>
   <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" width="45%" alt="Coding Animation 2"/>
 </div>
 
