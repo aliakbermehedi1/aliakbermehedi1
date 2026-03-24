@@ -2,8 +2,8 @@
 
 <div align="center">
   <img 
-  src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/assets/cover.png" 
-  alt="Ali Akber Mehedi - Frontend Specialist" 
+  src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" 
+  alt="Cover" 
   width="100%" 
   height="300" 
   style="object-fit: cover; border-radius: 15px;"
