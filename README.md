@@ -1,13 +1,7 @@
 # Hi there! 👋 I'm Ali Akber Mehedi
 
 <div align="center">
-<img 
-  src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/assets/cover.png" 
-  alt="Ali Akber Mehedi - Frontend Specialist" 
-  width="100%" 
-  height="300" 
-  style="object-fit: cover; border-radius: 15px;"
-/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1761782400&v=beta&t=dBItrxwSIxld2BOat6o2xE-4GXyaPiPUp6BVtuv8PmA" alt="Ali Akber Mehedi - Frontend Specialist" width="100%" height="300" style="object-fit: cover; border-radius: 15px;"/>
 </div>
 
 <br/>
