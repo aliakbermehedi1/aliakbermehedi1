@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ali Akber Mehedi
 
 <div align="center">
-  <img 
-  src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" 
-  alt="Cover" 
+<img 
+  src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/assets/cover.png" 
+  alt="Ali Akber Mehedi - Frontend Specialist" 
   width="100%" 
   height="300" 
   style="object-fit: cover; border-radius: 15px;"
