@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliakbermehedi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aliakbermehedi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Akber%20Mehedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliakbermehedi/)
-[![Email](https://img.shields.io/badge/Email-aliakbermehedi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliakbermehedi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-aliakbermehedi.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://aliakbermehedi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Ali%20Akber%20Mehedi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliakbermehedi/)
+[![Email](https://img.shields.io/badge/email-aliakbermehedi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliakbermehedi@gmail.com)
 
 </div>
 
@@ -16,12 +16,12 @@
 
 ### About Me
 
-Software Engineer with extensive experience in enterprise web applications, high-scale frontend architectures, and modern full-stack systems. Currently engineering commercial trade modules and mission-critical reporting engines at **Dekko Isho Group**.
+Software Engineer with extensive experience in enterprise web applications, high-scale frontend architectures, and modern full-stack systems. Currently engineering core enterprise ERP platforms and mission-critical reporting engines at **Dekko Isho Group**.
 
 Specialized in building performant, scalable user interfaces using **React**, **Next.js**, and strict **TypeScript**, with clean decoupling, state isolation, and backend services powered by **Node.js** and **PostgreSQL**.
 
-- **Current Work:** Enterprise ERP systems, export commerce workflows, and high-throughput data tables at Dekko Isho Group.
-- **Continuous Learning:** Deepening distributed backend systems, PostgreSQL indexing, and AI engineering.
+- **Current Work:** Enterprise ERP platforms, complex transactional workflows, and high-throughput data tables at Dekko Isho Group.
+- **Continuous Learning:** Deepening distributed backend systems, PostgreSQL query optimization, and modern system design.
 - **Engineering Philosophy:** Clean code, modular domain boundaries, reliable testing, and high runtime performance.
 
 ---
@@ -31,15 +31,23 @@ Specialized in building performant, scalable user interfaces using **React**, **
 <div align="center">
 
 #### Languages & Core Frontend
-<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nextjs,tailwind,redux" alt="Frontend Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css" alt="Frontend Tech Stack" />
 
 #### Backend, Databases & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="Backend and Database Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,prisma" alt="Backend and Database Tech Stack" />
 
 #### Tooling, DevOps & Workflows
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,vercel" alt="DevOps and Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,vercel,figma" alt="DevOps and Tools" />
 
 </div>
+
+<br/>
+
+| Domain | Key Competencies & Architecture Patterns |
+| :--- | :--- |
+| **Frontend Architecture** | Component-Driven Design, Micro-State Management (Redux Toolkit, Zustand), Virtualized Data Grids, Zero-Flicker SSR |
+| **Backend & Databases** | RESTful API Design, PostgreSQL Connection Pooling, Parameterized SQL Queries, Schema Migrations, Clean Architecture |
+| **Performance & DevOps** | Bundle Optimization, Code-Splitting, Lazy Loading, Git Flow, CI/CD Deployment Pipelines, Docker Containerization |
 
 ---
 
