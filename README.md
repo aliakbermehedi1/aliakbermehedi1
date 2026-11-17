@@ -16,12 +16,13 @@
 
 ### About Me
 
-Software Engineer with extensive experience in enterprise web applications, high-scale frontend architectures, and modern full-stack systems. Currently engineering core enterprise ERP platforms and mission-critical reporting engines at **Dekko Isho Group**.
+Software Engineer with extensive experience in enterprise web applications, high-scale frontend architectures, and modern **AI Engineering** (LLM applications, agentic workflows, and RAG architectures). Currently engineering core enterprise ERP platforms and mission-critical reporting engines at **Dekko Isho Group** while building AI-native tools and full-stack systems.
 
-Specialized in building performant, scalable user interfaces using **React**, **Next.js**, and strict **TypeScript**, with clean decoupling, state isolation, and backend services powered by **Node.js** and **PostgreSQL**.
+Specialized in building performant, scalable user interfaces using **React**, **Next.js**, and strict **TypeScript**, with clean decoupling, state isolation, and backend services powered by **Node.js**, **PostgreSQL**, and modern AI models.
 
-- **Current Work:** Enterprise ERP platforms, complex transactional workflows, and high-throughput data tables at Dekko Isho Group.
-- **Continuous Learning:** Deepening distributed backend systems, PostgreSQL query optimization, and modern system design.
+- **Enterprise Systems:** Production ERP platforms, complex transactional workflows, and high-throughput data tables at Dekko Isho Group.
+- **AI Engineering & LLM Architecture:** Building intelligent agent workflows, structured tool execution (Zod schemas), streaming UI interfaces with Vercel AI SDK, and vector-enabled semantic retrieval (RAG with pgvector).
+- **Full-Stack & Cloud:** Scalable REST APIs, connection pooling, schema migrations, and microservice integration with Node.js, Express, and PostgreSQL.
 - **Engineering Philosophy:** Clean code, modular domain boundaries, reliable testing, and high runtime performance.
 
 ---
@@ -33,8 +34,8 @@ Specialized in building performant, scalable user interfaces using **React**, **
 #### Languages & Core Frontend
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css" alt="Frontend Tech Stack" />
 
-#### Backend, Databases & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,prisma" alt="Backend and Database Tech Stack" />
+#### AI Engineering, Backend & Databases
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,firebase,prisma" alt="AI, Backend and Database Tech Stack" />
 
 #### Tooling, DevOps & Workflows
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,vercel,figma" alt="DevOps and Tools" />
@@ -45,8 +46,9 @@ Specialized in building performant, scalable user interfaces using **React**, **
 
 | Domain | Key Competencies & Architecture Patterns |
 | :--- | :--- |
+| **AI & Agentic Engineering** | LLM Tool Calling & Structured Outputs (Zod), Streaming UI Interfaces (Vercel AI SDK, SSE), Retrieval-Augmented Generation (RAG & pgvector), Autonomous Agent Workflows & Memory Layers, OpenAI / Anthropic / Gemini API Integration |
 | **Frontend Architecture** | Component-Driven Design, Micro-State Management (Redux Toolkit, Zustand), Virtualized Data Grids, Zero-Flicker SSR |
-| **Backend & Databases** | RESTful API Design, PostgreSQL Connection Pooling, Parameterized SQL Queries, Schema Migrations, Clean Architecture |
+| **Backend & Databases** | RESTful & Vector API Design, PostgreSQL Connection Pooling, Parameterized SQL Queries, Schema Migrations, Clean Architecture |
 | **Performance & DevOps** | Bundle Optimization, Code-Splitting, Lazy Loading, Git Flow, CI/CD Deployment Pipelines, Docker Containerization |
 
 ---
