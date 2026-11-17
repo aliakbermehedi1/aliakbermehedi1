@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Ali Akber Mehedi
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1761782400&v=beta&t=dBItrxwSIxld2BOat6o2xE-4GXyaPiPUp6BVtuv8PmA" alt="Ali Akber Mehedi - Frontend Specialist" width="100%" height="300" style="object-fit: cover; border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/banner.png" alt="Ali Akber Mehedi - Software Engineer" width="100%" style="object-fit: cover; border-radius: 15px;"/>
 </div>
 
 <br/>
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Akber+Mehedi!;Frontend+Specialist!;Full+Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Akber+Mehedi!;Software+Engineer!;Full+Stack+Developer!;" />
   </h1>
 </div>
 
@@ -23,9 +23,9 @@
 💡 Focused on delivering exceptional user experiences through clean, efficient code  
 
 ### 🔭 Current Focus:
-- **Working on:** Advanced Frontend Solutions at Dekko Isho Group
-- **Learning:** Python 🐍 & Advanced React Patterns  
-- **Goal:** Contributing to revolutionary software solutions
+- **Working on:** High-Scale Enterprise ERPs & Frontend Solutions at Dekko Isho Group
+- **Learning:** Backend Architecture (Node.js, PostgreSQL) & AI Engineering  
+- **Ventures:** E-Commerce Architecture & Retail POS Systems
 - **Fun Fact:** I optimize code by day and optimize my sleep for 8 hours by night! 😴
 
 <br clear="right"/>
@@ -62,7 +62,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-akber-mehedi-684262209)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aliakbermehedi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliakbermehedi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliakbermehedi@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aliakbermehedi1)
 
 </div>
