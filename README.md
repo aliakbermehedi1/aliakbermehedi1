@@ -1,116 +1,85 @@
-# Hi there! 👋 I'm Ali Akber Mehedi
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/banner.png" alt="Ali Akber Mehedi - Software Engineer" width="100%" style="object-fit: cover; border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/aliakbermehedi1/aliakbermehedi1/main/banner.png" alt="Ali Akber Mehedi - Software Engineer" width="100%" style="object-fit: cover; border-radius: 12px;"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Akber+Mehedi!;Software+Engineer!;Full+Stack+Developer!;" />
-  </h1>
-</div>
 
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-
-### 💫 About Me:
-
-🚀 **Frontend Specialist** & **Full-Stack Developer** at **Dekko Isho Group**  
-🔥 Passionate about creating scalable, user-friendly solutions that make a real impact  
-🌟 Always exploring cutting-edge technologies and innovative approaches  
-🎯 Seeking exciting remote opportunities to showcase my expertise  
-💡 Focused on delivering exceptional user experiences through clean, efficient code  
-
-### 🔭 Current Focus:
-- **Working on:** High-Scale Enterprise ERPs & Frontend Solutions at Dekko Isho Group
-- **Learning:** Backend Architecture (Node.js, PostgreSQL) & AI Engineering  
-- **Ventures:** E-Commerce Architecture & Retail POS Systems
-- **Fun Fact:** I optimize code by day and optimize my sleep for 8 hours by night! 😴
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend Mastery
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css,tailwind,bootstrap,sass" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,netlify" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliakbermehedi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aliakbermehedi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Akber%20Mehedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliakbermehedi/)
+[![Email](https://img.shields.io/badge/Email-aliakbermehedi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliakbermehedi@gmail.com)
 
 </div>
 
 ---
 
-## 🎨 I Love Task's
+### About Me
+
+Software Engineer with extensive experience in enterprise web applications, high-scale frontend architectures, and modern full-stack systems. Currently engineering commercial trade modules and mission-critical reporting engines at **Dekko Isho Group**.
+
+Specialized in building performant, scalable user interfaces using **React**, **Next.js**, and strict **TypeScript**, with clean decoupling, state isolation, and backend services powered by **Node.js** and **PostgreSQL**.
+
+- **Current Work:** Enterprise ERP systems, export commerce workflows, and high-throughput data tables at Dekko Isho Group.
+- **Continuous Learning:** Deepening distributed backend systems, PostgreSQL indexing, and AI engineering.
+- **Engineering Philosophy:** Clean code, modular domain boundaries, reliable testing, and high runtime performance.
+
+---
+
+### Technical Competencies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="45%" alt="Coding Animation 1"/>
-  <img src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif" width="45%" alt="Coding Animation 2"/>
+
+#### Languages & Core Frontend
+<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nextjs,tailwind,redux" alt="Frontend Tech Stack" />
+
+#### Backend, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="Backend and Database Tech Stack" />
+
+#### Tooling, DevOps & Workflows
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,vercel" alt="DevOps and Tools" />
+
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate!
+### Featured Engineering Projects
 
-<div align="center">
+#### 1. [Developer Portfolio Platform](https://github.com/aliakbermehedi1/ali-akber-mehedi)
+- **Stack:** Next.js (App Router), React 19, Tailwind CSS, Framer Motion, Recharts, Cal.com
+- **Architecture Highlights:**
+  - In-browser interactive CLI terminal emulator supporting custom developer commands.
+  - Global Command Palette (`Cmd/Ctrl + K`) for rapid site-wide keyboard navigation.
+  - Interactive multi-dimensional skills radar chart powered by Recharts.
+  - Zero-flicker pre-paint theme engine preventing light/dark mode flash of unstyled content.
+- **Links:** [Live Demo](https://aliakbermehedi.vercel.app) | [Repository](https://github.com/aliakbermehedi1/ali-akber-mehedi)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aliakbermehedi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliakbermehedi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliakbermehedi@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aliakbermehedi1)
+#### 2. [Kenakata Platform — Modern E-Commerce](https://github.com/aliakbermehedi1/Kena-Kata-E-commerce-)
+- **Stack:** Next.js (App Router), React 19, Zustand, Tailwind CSS, Framer Motion, Swiper
+- **Architecture Highlights:**
+  - Lightweight reactive cart and checkout store using Zustand with persistent local synchronization.
+  - Touch-optimized swipeable product carousels and smooth drawer micro-interactions.
+  - Server-rendered catalog pages optimized for search engine crawlability.
+- **Links:** [Live Demo](https://kenakata24.vercel.app) | [Repository](https://github.com/aliakbermehedi1/Kena-Kata-E-commerce-)
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="50"/>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aliakbermehedi1&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbermehedi1&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbermehedi1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff6b6b&fire=4ecdc4&currStreakLabel=ffffff" />
-</div>
+#### 3. [SlideIn Studio Platform](https://github.com/aliakbermehedi1/VideoEditorPortfolioClient)
+- **Stack:** React 19, Vite, Tailwind CSS, Ant Design, WaveSurfer.js, Framer Motion, i18next
+- **Architecture Highlights:**
+  - Split-screen Before/After interactive video comparison slider with synchronized playback.
+  - Real-time audio mastering waveform visualizer canvas powered by WaveSurfer.js.
+  - Full internationalization support with `i18next`.
+- **Links:** [Repository](https://github.com/aliakbermehedi1/VideoEditorPortfolioClient)
 
 ---
 
-## 🐍 Contribution Snake Game
+### Engineering Activity & Contributions
 
 <div align="center">
-  <img src="https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://streak-stats.demolab.com/?user=aliakbermehedi1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=ffffff" alt="GitHub Contribution Streak" width="90%"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  
-### 💼 Ready to Transform Ideas into Digital Reality!
-  
-**Available for exciting opportunities • Let's build something amazing together!**
-
-<img src="https://komarev.com/ghpvc/?username=aliakbermehedi1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=aliakbermehedi1&label=&color=6366f1&style=flat-square" alt="Profile Views" align="center"/></sub>
 </div>
-
